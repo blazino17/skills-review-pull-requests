@@ -12,6 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
+codexzy can be dockerized; kindly note that this is a testrun 
 
 <!--
   <<< Author notes: Step 6 >>>
